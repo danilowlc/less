@@ -7,8 +7,16 @@
     "less": "less-watch-compiler ./src/styles ./build/styles main.less",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilowlc/less.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilowlc/less/issues"
+  },
+  "homepage": "https://github.com/danilowlc/less#readme",
   "devDependencies": {
     "less": "^4.1.3",
     "less-watch-compiler": "^1.16.3"
